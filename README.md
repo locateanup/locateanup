@@ -2,7 +2,7 @@
 
 I like building things on the internet.
 
-Not a professional developer or designer — just someone curious enough to keep creating, learning, and experimenting.
+Not a professional developer or designer, just someone curious enough to keep creating, learning, and experimenting.
 
 Currently exploring:
 - modern web development
